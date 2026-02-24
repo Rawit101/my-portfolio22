@@ -1,5 +1,5 @@
 import type { Metadata } from "next"
-import "./globals.css"
+
 import SnowBackground from "./components/SnowBackground"
 
 export const metadata: Metadata = {
